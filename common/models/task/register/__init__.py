@@ -1,0 +1,2 @@
+from ._request_register_info_model import RequestRegisterFlightModel
+from ._response_register_info_model import ResponsePointsFlightModel

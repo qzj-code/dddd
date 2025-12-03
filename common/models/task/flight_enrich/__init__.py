@@ -1,0 +1,2 @@
+from ._request_flight_enrich_info_model import RequestFlightEnrichInfoModel
+from ._response_flight_enrich_info_model import ResponseFlightEnrichInfoModel

@@ -1,0 +1,2 @@
+from ._request_baggage_search_info_model import RequestBagageSearchInfoModel
+from ._response_baggage_search_info_model import ResponseBagageSearchInfoModel
