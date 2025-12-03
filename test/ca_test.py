@@ -37,7 +37,7 @@ def search():
         "transAirport": null,
         "tripType": "1"
     }
-    # url = 'http://127.0.0.1:8090/CAmobile/search'
+    # url = 'http://127.0.0.1:8090/CAmobile/searchsss'
     url = 'http://127.0.0.1:8090/CAapp/search'
     response = requests.post(url, json=data).json()
     print(response)
